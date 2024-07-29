@@ -4,18 +4,15 @@
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
+My journey in computer science has ignited a strong passion for Business Intelligence and Software Development. I am now eager to transition into this field and join a dynamic team where I can leverage my skills to make a meaningful impact.
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Data Scraping and visulization with Jupyter Notebooks         | <a href="https://google.com">Detection Lab</a>|
-| Employee Registration Program | <a href="https://google.com">Detection Lab</a>|
-| Incident Reporting Webpage        | SOC Automation Lab|
+| Data Scraping and visulization with Jupyter Notebooks | <a href="https://github.com/katjerome/portfolio/blob/main/Celtics%20Webscrape.ipynb"></a>|
+| Employee Registration Program GUI | <a href="https://github.com/katjerome/portfolio/blob/main/main_gui.py">Main GUI</a>|
+| Employee Registration Program     | <a href="https://github.com/katjerome/portfolio/blob/main/employee_reg.py">Employee Registration</a>|
 
 
 ## Tools
@@ -36,7 +33,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Json-00A4EF?&style=for-the-badge&logo=JSon&logoColor=white" />
     <img src="https://img.shields.io/badge/-SAS-1679A7?&style=for-the-badge&logo=SAS&logoColor=red" />
     <img src="https://img.shields.io/badge/-XML-8B008B?&style=for-the-badge&logo=XML&logoColor=white" />
-    </div>
+</div>
 
 ### Software
 <div>
@@ -53,13 +50,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Business Intelligence-FF0000?&style=for-the-badge&logo=Tableau&logoColor=white" />
+   <img src="https://img.shields.io/badge/-IT Foundations-007ACC?&style=for-the-badge&logo=Python&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Programming Fundamentals-4D4D4D?&style=for-the-badge&logo=Python&logoColor=white" />
 </div>
 
 ## Projects
