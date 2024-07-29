@@ -10,7 +10,7 @@ My journey in computer science has ignited a strong passion for Business Intelli
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Data Scraping and visulization with Jupyter Notebooks | <a href="https://github.com/katjerome/portfolio/blob/main/Celtics%20Webscrape.ipynb"></a>|
+| Data Scraping and visulization with Jupyter Notebooks | <a href="https://github.com/katjerome/portfolio/blob/main/Celtics%20Webscrape.ipynb">Celtics Data Scrape</a>|
 | Employee Registration Program GUI | <a href="https://github.com/katjerome/portfolio/blob/main/main_gui.py">Main GUI</a>|
 | Employee Registration Program     | <a href="https://github.com/katjerome/portfolio/blob/main/employee_reg.py">Employee Registration</a>|
 
