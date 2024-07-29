@@ -27,6 +27,7 @@ My journey in computer science has ignited a strong passion for Business Intelli
 ### Programming Languages
 <div>
     <img src="https://img.shields.io/badge/-Python-1679A7?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL-1679A7?&style=for-the-badge&logo=SQL&logoColor=white" />
     <img src="https://img.shields.io/badge/-HTML-DC143C?&style=for-the-badge&logo=HTML&logoColor=white" />
     <img src="https://img.shields.io/badge/-CSS-EF3B2D?&style=for-the-badge&logo=CSS&logoColor=white" />
     <img src="https://img.shields.io/badge/-JavaScript-777BB4?&style=for-the-badge&logo=JavaScriptk&logoColor=white" />
@@ -37,7 +38,7 @@ My journey in computer science has ignited a strong passion for Business Intelli
 
 ### Software
 <div>
-    <img src="https://img.shields.io/badge/-SQL/MySQL-1679A7?&style=for-the-badge&logo=SQL&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MySQL-1679A7?&style=for-the-badge&logo=MySQL&logoColor=white" />
     <img src="https://img.shields.io/badge/-Tableau-1E90FF?&style=for-the-badge&logo=Tableau&logoColor=white" />
     <img src="https://img.shields.io/badge/-PowerBI-DAA520?&style=for-the-badge&logo=PowerBI&logoColor=white" />
 </div>
