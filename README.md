@@ -21,6 +21,16 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
+### Programmign Languages
+<div>
+    <img src="https://img.shields.io/badge/-Python-1679A7?&style=for-the-badge&logo=MySQL&logoColor=white" />
+    <img src=https://img.shields.io/badge/HTML-orange">
+    <img src="https://img.shields.io/badge/-CSS-EF3B2D?&style=for-the-badge&logo=CSS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JavaScript-777BB4?&style=for-the-badge&logo=JavaScriptk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Json-00A4EF?&style=for-the-badge&logo=JSon&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SAS-1679A7?&style=for-the-badge&logo=SAS&logoColor=red" />
+    </div>
+
 ### Software
 <div>
     <img src="https://img.shields.io/badge/-MySQL-1679A7?&style=for-the-badge&logo=MySQL&logoColor=white" />
