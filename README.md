@@ -19,9 +19,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Programmign Languages
+### OS
+<div>
+  <img src="https://img.shields.io/badge/-Linux-006400?&style=for-the-badge&logo=Linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Windows-556B2F?&style=for-the-badge&logo=Windows&logoColor=white" />
+
+</div>
+
+### Programming Languages
 <div>
     <img src="https://img.shields.io/badge/-Python-1679A7?&style=for-the-badge&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/-HTML-DC143C?&style=for-the-badge&logo=HTML&logoColor=white" />
@@ -29,19 +35,21 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-JavaScript-777BB4?&style=for-the-badge&logo=JavaScriptk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Json-00A4EF?&style=for-the-badge&logo=JSon&logoColor=white" />
     <img src="https://img.shields.io/badge/-SAS-1679A7?&style=for-the-badge&logo=SAS&logoColor=red" />
+    <img src="https://img.shields.io/badge/-XML-8B008B?&style=for-the-badge&logo=XML&logoColor=white" />
     </div>
 
 ### Software
 <div>
-    <img src="https://img.shields.io/badge/-MySQL-1679A7?&style=for-the-badge&logo=MySQL&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL/MySQL-1679A7?&style=for-the-badge&logo=SQL&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tableau-1E90FF?&style=for-the-badge&logo=Tableau&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PowerBI-DAA520?&style=for-the-badge&logo=PowerBI&logoColor=white" />
 </div>
 
 ### Frameworks
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Jupyter Notebooks-FF7F50?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Django-4B275F?&style=for-the-badge&logo=Django&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Git-B8860B?&style=for-the-badge&logo=Git&logoColor=white" />
 </div>
 
 ## Certifications
